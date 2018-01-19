@@ -9,4 +9,4 @@ let server = http.createServer((req, res) => {
  res.write("Hello world!");
   res.end();
 }).listen(80);
-console.log("Server kjører!");
+console.log("Server running!");
