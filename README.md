@@ -1,2 +1,2 @@
 # PokerGame
-Poker. Played on a projctor + phones
+Kahoot like pokergame based on host and clients.
